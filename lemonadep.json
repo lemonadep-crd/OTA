@@ -1,0 +1,29 @@
+{
+  "response": [
+    {
+      "maintainer": "Abhinav2005",
+      "currently_maintained": true,
+      "oem": "OnePlus",
+      "device": "9 Pro",
+      "filename": "",
+      "download": "",
+      "timestamp": ,
+      "md5": "",
+      "sha256": "",
+      "size": ,
+      "version": "",
+      "buildtype": "",
+      "forum": "",
+      "firmware": "",
+      "paypal": "",
+      "github": "abhinav2005git",
+      "initial_installation_images": [
+        "vendor_boot",
+        "vbmeta",
+        "dtbo",
+        "boot"
+      ],
+      "extra_images": []
+    }
+  ]
+}
