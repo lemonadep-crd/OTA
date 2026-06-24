@@ -1,1 +1,12 @@
 ---CHANGELOGS---
+
+23-06-2026(HOTFIX)
+
+- HOTFIX: Fixed broken recovery due to change in kernel (thanks @Madara273)
+- Switch to Sakura Kernel by Madara273
+- Updated KernelSU Next to v3.2.0 with SUSFS integrated
+- Switched to Pixel AIDL Thermal HAL v3
+  → Shows warning when skin temp reaches 52 °C
+  → Automatically drops FPS to 60 Hz on thermal throttle
+- Removed OOS Camera (temporary)
+- Aperture (LoS Camera) can now record up to 4K60 and 120 FPS (Thanks to @Thuryn - Unofficial EvoX Dev!)
